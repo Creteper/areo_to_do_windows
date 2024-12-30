@@ -15,7 +15,9 @@
         "title": "Areo To Do",
         "width": 800,
         "height": 600,
-        "decorations": false
+        "decorations": false,
+        "minHeight": 300,
+        "minWidth": 600
       }
     ],
     "security": {
